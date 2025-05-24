@@ -1,0 +1,6 @@
+C:\Users\XPRISTO\source\repos\Student System\Student System\obj\Debug\net9.0\Student System.csproj.AssemblyReference.cache
+C:\Users\XPRISTO\source\repos\Student System\Student System\obj\Debug\net9.0\Student System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPRISTO\source\repos\Student System\Student System\obj\Debug\net9.0\Student System.AssemblyInfoInputs.cache
+C:\Users\XPRISTO\source\repos\Student System\Student System\obj\Debug\net9.0\Student System.AssemblyInfo.cs
+C:\Users\XPRISTO\source\repos\Student System\Student System\obj\Debug\net9.0\Student System.csproj.CoreCompileInputs.cache
+C:\Users\XPRISTO\source\repos\Student System\Student System\obj\Debug\net9.0\Student System.sourcelink.json
